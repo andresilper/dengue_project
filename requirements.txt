@@ -1,0 +1,16 @@
+## Requirements
+
+```
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+```
+
+Install with:
+
+```bash
+pip install -r requirements.txt
+```
